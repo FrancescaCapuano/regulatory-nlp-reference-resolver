@@ -1,0 +1,5 @@
+# Document Reference Extraction - Requirements
+# Core dependencies for the rule-based reference extraction system
+
+pandas>=1.5.0
+typing-extensions>=4.0.0
